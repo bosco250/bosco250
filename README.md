@@ -1,194 +1,89 @@
-# 🌟 Welcome to the Digital Universe of Bosco Dusengimana
+# Jean Bosco Dusengimana
 
-<div align="center">
+**Full-Stack Software Developer** · Kigali, Rwanda
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bosco+Dusengimana;Passionate+Frontend+Developer;From+the+Heart+of+Rwanda+%F0%9F%87%B7%F0%9F%87%BC;Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+[**Portfolio →**](https://jeanbooscodusengimana.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20Architect&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32"/>
+I write software for a living and I care about the parts that are easy to skip: schema design that holds up, authentication that cannot be talked around, and code the next person can read without me in the room. I have been doing this professionally since 2024, across the JavaScript and TypeScript ecosystem, and I am finishing a BSc in Computer Science at the University of Rwanda.
 
-</div>
+Most of my work has been on systems that real businesses depend on daily, in regulated spaces like insurance, lending, and tax. That has shaped how I build: I would rather spend an extra day getting the data model and the permission boundaries right than spend a month unpicking them later.
 
----
+## How I work
 
-## 🎯 **Mission Statement**
+- **Understand the problem first.** Most bad code is a correct solution to the wrong problem.
+- **Own the feature end to end**, from the database schema through the API to the deployed interface. Handing off half a feature just moves the work.
+- **Build security in from the start.** Retrofitting auth and access control onto a live system is painful and usually incomplete.
+- **Write for the next developer.** Clear naming and honest structure beat clever code that only makes sense the week you wrote it.
+- **Find the breaking point on purpose.** I would rather discover a system's limit under a load test I designed than during a launch.
+- **Ship, then improve.** Working software in front of real users teaches me more than another round of planning.
 
-> *"Transforming ideas into digital experiences that transcend time and technology boundaries. Every pixel matters, every interaction counts."*
+## Where I go deep
 
-<div align="center">
+**Secure authentication.** Passwordless login with WebAuthn and Passkeys, TOTP two-factor, and access control that survives real organisations with real edge cases.
 
-![Profile Views](https://komarev.com/ghpvc/?username=bosco250&label=Galactic%20Visitors&color=00ff41&style=for-the-badge&labelColor=black)
-[![GitHub Followers](https://img.shields.io/github/followers/bosco250?label=Cosmic%20Followers&style=for-the-badge&color=ff6b6b&labelColor=black)](https://github.com/bosco250)
-[![Years Badge](https://badges.pufler.dev/years/bosco250?style=for-the-badge&color=blue&labelColor=black)](https://github.com/bosco250)
+**Regulated systems.** Building to statutory rules rather than around them, including BNR financial regulation, EBM tax invoicing, and multi-country accounting standards.
 
-</div>
+**Applied machine learning.** Credit-risk scoring from live telemetry, anomaly detection over payroll runs, and forecasting that feeds actual decisions rather than a dashboard nobody opens.
 
----
+**Performance under load.** Load and stress testing with k6 and JMeter: modelling realistic traffic, ramping it until something gives, and knowing whether the ceiling is the database, the connection pool, or my own code. A system that works for one user tells you very little.
 
-## 🏆 **Achievement Constellation**
+**Delivery.** Docker, Nginx, and reproducible environments, so what runs on my machine is what runs in production.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bosco250&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy Collection"/>
-</div>
+## Tools I reach for
 
----
+**Languages**
 
-## 🚀 **Current Trajectory**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<table>
-<tr>
-<td width="50%">
+**Frontend**
 
-### 🌱 **Learning Frontier**
-```javascript
-const currentFocus = {
-  mobile: "React Native 📱",
-  language: "TypeScript 🔷",
-  mastery: "Advanced JavaScript ⚡",
-  architecture: "System Design 🏗️",
-  future: "Web3 & AI Integration 🤖"
-};
-```
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-</td>
-<td width="50%">
+**Backend and data**
 
-### 📡 **Communication Channels**
-```yaml
-primary_contact:
-  email: "dusengimana06@gmail.com"
-  location: "Kigali, Rwanda 🇷🇼"
-  timezone: "CAT (UTC+2)"
-  availability: "Open for collaborations"
-```
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Mobile and infrastructure**
 
----
+![Expo](https://img.shields.io/badge/React%20Native%20(Expo)-000020?style=flat-square&logo=expo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-## 🛠️ **Technology Arsenal**
+**Testing and performance**
 
-<div align="center">
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### **Frontend Mastery**
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap" alt="Frontend Stack"/>
-</p>
+## Currently
 
-### **Backend & Database**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,java,spring" alt="Backend Stack"/>
-</p>
+Software Developer at **Uruti Hub Limited**, building production platforms end to end.
 
-### **Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,linux" alt="Tools Stack"/>
-</p>
+Finishing a **BSc in Computer Science**, University of Rwanda, in 2026.
 
-</div>
+**1st Place, Hanga Pitch Hackathon 2024**, organised with RISA and the ICT Chamber.
 
----
+## Reach me
 
-## 📊 **Performance Analytics**
+[**jeanbooscodusengimana.vercel.app**](https://jeanbooscodusengimana.vercel.app/) · **dusengimana06@gmail.com** · Kigali, Rwanda (UTC+2) · open to remote work
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=bosco250&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bosco250&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosco250&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🎨 **Code Philosophy**
-
-<div align="center">
-
-```ascii
-    ╭─────────────────────────────────────────────────╮
-    │  "Clean code is not written by following a      │
-    │   set of rules. You don't become a software     │
-    │   craftsman by learning a list of heuristics.   │
-    │   Professionalism and craftsmanship come from   │
-    │   values that drive disciplines."                │
-    │                                                  │
-    │                        - Robert C. Martin       │
-    ╰─────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-## 🌐 **Recent Contributions**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bosco250&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 💡 **Innovation Metrics**
-
-<div align="center">
-
-| Metric | Value | Progress |
-|--------|--------|----------|
-| **Code Quality** | 95% | ████████████████████ |
-| **Problem Solving** | 90% | ██████████████████░░ |
-| **Team Collaboration** | 88% | █████████████████░░░ |
-| **Innovation Index** | 92% | ██████████████████░░ |
-| **Learning Velocity** | 85% | █████████████████░░░ |
-
-</div>
-
----
-
-## 🎯 **2024+ Roadmap**
-
-```mermaid
-gitGraph
-    commit id: "Mobile Apps"
-    branch typescript
-    commit id: "Advanced TS"
-    branch ai-integration
-    commit id: "AI Features"
-    checkout main
-    merge typescript
-    merge ai-integration
-    commit id: "Full-Stack Excellence"
-```
-
----
-
-<div align="center">
-
-### 🌟 **"The future belongs to those who code it"**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
----
-
-⭐ **If this profile inspired you, consider giving my repositories a star!** ⭐
-
-[![Made with ❤️ in Rwanda](https://img.shields.io/badge/Made%20with%20❤️%20in-Rwanda-green?style=for-the-badge&labelColor=black)](https://github.com/bosco250)
-
-</div>
-
----
-
-<div align="right">
-
-*Last updated: 2025 • Built to impress until 2050 and beyond! 🚀*
-
-</div>
+Always happy to talk about a hard problem, whether or not there is a job attached.
